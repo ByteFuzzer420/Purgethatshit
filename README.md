@@ -9,7 +9,7 @@ Simple program created in python to securely destroy data on both SSD's and Hard
 
 - ***Utilizes a series of encryption methods***
 - ***Aes 256***
-- ***Blowfish**
+- ***Blowfish***
 
 ## **Installation**
 
