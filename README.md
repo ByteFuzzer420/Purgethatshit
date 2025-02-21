@@ -1,4 +1,4 @@
-![Purgethatshit](https://img.shields.io/github/license/kathuluman/Purgethatshit?color=blue&style=for-the-badge) ![Version](https://img.shields.io/github/v/tag/kathuluman/Purgethatshit?color=blue&style=for-the-badge)
+![Purgethatshit](https://img.shields.io/github/license/ByteFuzzer420/Purgethatshit?color=blue&style=for-the-badge) ![Version](https://img.shields.io/github/v/tag/ByteFuzzer420/Purgethatshit?color=blue&style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Version](https://img.shields.io/badge/version-5.0.0-green?style=for-the-badge)
 
@@ -19,7 +19,7 @@ To get started with Purgethatshit, you’ll need to have Python 3.x installed:
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/kathuluman/Purgethatshit.git
+   git clone https://github.com/ByteFuzzer420/Purgethatshit.git
    cd Purgethatshit
    ```
 
